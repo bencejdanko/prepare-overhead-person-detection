@@ -1,6 +1,10 @@
-# Prepare Overhead Person Detection Dataset
+# Overhead Person Detection Dataset
+
+[alt](https://raw.githubusercontent.com/bencejdanko/prepare-overhead-person-detection/refs/heads/main/grid_5x5.png)
 
 ## Hugging Face Dataset
+
+In total, these are 13,469 images and annotations for overhead head-count detection in confined spaces.
 
 This dataset has been processed and uploaded to Hugging Face:
 - **Repository**: [bdanko/overhead-person-detection](https://huggingface.co/datasets/bdanko/overhead-person-detection)
