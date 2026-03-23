@@ -1,6 +1,6 @@
 # Overhead Person Detection Dataset
 
-[alt](https://raw.githubusercontent.com/bencejdanko/prepare-overhead-person-detection/refs/heads/main/grid_5x5.png)
+![alt](https://raw.githubusercontent.com/bencejdanko/prepare-overhead-person-detection/refs/heads/main/grid_5x5.png)
 
 ## Hugging Face Dataset
 
